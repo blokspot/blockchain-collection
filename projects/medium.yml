@@ -1,0 +1,12 @@
+name: Medium
+
+projects:
+  - name: "Vitalik Buterin"
+    description: "Ethereum creator, cryptocurrency evangelist."
+    links:
+      website: https://medium.com/@VitalikButerin
+      
+  - name: "Bitcoin Tech Talk"
+    description: "All About Bitcoin Development."
+    links:
+      website: https://bitcointechtalk.com/
