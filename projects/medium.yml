@@ -6,6 +6,11 @@ projects:
     description: "Ethereum creator, cryptocurrency evangelist."
     links:
       website: https://medium.com/@VitalikButerin
+  
+  - name: "Linda Xie"
+    description: "Product Manager @Coinbase. Advisor @0xProject."
+    links:
+      website: https://medium.com/@linda.xie
       
   - name: "Bitcoin Tech Talk"
     description: "All About Bitcoin Development."
