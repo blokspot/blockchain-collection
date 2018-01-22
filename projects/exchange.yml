@@ -1,0 +1,21 @@
+alias: exchanges
+name: Exchanges
+
+projects:
+  - name: "Local Bitcoins"
+    description: "Buy and sell bitcoins near you. Trusted by 10M monthly users."
+    country: Wolrd
+    links:
+      website: https://localbitcoins.com/
+      
+  - name: "Poloniex"
+    description: "Tons of altcoins. Poor support."
+    country: USA
+    links:
+      website: https://www.poloniex.com/
+      
+  - name: "Shapeshift"
+    description: "No login, fast, awesome API."
+    links:
+      website: https://shapeshift.io/
+      
