@@ -4,7 +4,6 @@ name: Exchanges
 projects:
   - name: "Local Bitcoins"
     description: "Buy and sell bitcoins near you. Trusted by 10M monthly users."
-    country: Wolrd
     links:
       website: https://localbitcoins.com/
       

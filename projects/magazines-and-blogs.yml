@@ -1,0 +1,18 @@
+alias: magazines-and-blogs
+name: "Magazines and Blogs"
+
+projects:
+  - name: "CoinDesk"
+    description: "CoinDesk is the world leader in news and information on digital currencies. 17M mothly users."
+    links:
+      website: https://www.coindesk.com/
+
+  - name: "CryptoCoins News"
+    description: "Fresh news and analysis. This huge blog posts very frequently. Approx. 7M readers monthly."
+    links:
+      website: http://www.cryptocoinsnews.com/
+
+  - name: "Coin Speaker"
+    description: "Founded in 2014, CoinSpeaker is one of the most influentional news source."
+    links:
+      website: https://www.coinspeaker.com/
