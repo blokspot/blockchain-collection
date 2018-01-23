@@ -6,6 +6,8 @@
   
   - name: "<name> *"
     
+    name: "<alias>" # Link of project
+    
     description: "<description>"
     
     country: "<country code>"

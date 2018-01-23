@@ -2,12 +2,14 @@ alias: ico-trackers
 name: "ICO Trackers"
 
 projects:
+
   - name: "The ICO digest"
     description: "Weekly ICO digest."
     links:
       website: https://theicodigest.com/
 
   - name: "Smith + Crown ICO list"
+    alias: "smith-and-crown-ico-list"
     description: "Curated list of ongoing and upcoming token sales. Have some research tiers."
     links:
       website: https://www.smithandcrown.com/icos/
