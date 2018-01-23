@@ -1,0 +1,18 @@
+alias: ico-trackers
+name: "ICO Trackers"
+
+projects:
+  - name: "The ICO digest"
+    description: "Weekly ICO digest."
+    links:
+      website: https://theicodigest.com/
+
+  - name: "Smith + Crown ICO list"
+    description: "Curated list of ongoing and upcoming token sales. Have some research tiers."
+    links:
+      website: https://www.smithandcrown.com/icos/
+
+  - name: "ICORating"
+    description: "ICOrating specializes in evaluating companies with planned ICO."
+    links:
+      website: http://icorating.com/
