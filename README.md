@@ -33,19 +33,19 @@ Please ensure your pull request adheres to the following guidelines:
       telegram: "<Telegram alias>"
 ```
 
-#### name
+### name
 Name of project/resource (**IMPORTANT**)
 
-#### description
+### description
 Detailed project information (**IMPORTANT**)
 
-#### alias
+### alias
 Unique project identifier for link
 
-#### country
+### country
 ISO code of country, if it important
 
-#### links
+### links
 **website** - Main website (**IMPORTANT**)
 
 **medium** - Medium token, started from **@** (if exists)
