@@ -1,0 +1,8 @@
+alias: price-trackers
+name: Price Trackers
+
+projects:
+  - name: CoinMarketCap
+    description: "Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users."
+    links:
+      website: https://coinmarketcap.com/
