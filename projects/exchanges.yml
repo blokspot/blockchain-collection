@@ -13,6 +13,12 @@ projects:
     links:
       website: https://www.poloniex.com/
       
+  - name: "Kraken"
+    description: "Trusted exchange. Founded in 2011"
+    country: USA
+    links:
+      website: https://www.kraken.com/
+      
   - name: "Shapeshift"
     description: "No login, fast, awesome API."
     links:
