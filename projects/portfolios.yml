@@ -1,0 +1,11 @@
+name: "Portfolios"
+alias: portfolios
+
+projects:
+  
+  - name: "CoinWizard"
+    description: >
+      It's a crypto currency portfolio and investment optimization tool.
+      You can maximize profit and minify dropdown of your crypto investment.
+    links:
+      website: https://coinwizard.me
