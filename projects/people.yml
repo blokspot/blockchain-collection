@@ -1,0 +1,24 @@
+name: "People"
+alias: people
+
+projects:
+
+  - name: "Vitalik Buterin"
+    description: "Ethereum creator, cryptocurrency evangelist."
+    links:
+      medium: "https://medium.com/@VitalikButerin"
+
+  - name: "Linda Xie"
+    description: "Product Manager @Coinbase. Advisor @0xProject."
+    links:
+      medium: "https://medium.com/@linda.xie"
+
+  - name: "Vinny Lingham"
+    description: "CEO of Civic.com."
+    links:
+      medium: https://vinnylingham.com/
+      
+  - name: "Tuur Demeester"
+    description: "Economist & investor, editor in chief at Adamant Research."
+    links:
+      medium: https://medium.com/@tuurdemeester

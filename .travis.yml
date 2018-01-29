@@ -1,0 +1,12 @@
+language: php
+
+php:
+  - 7.2
+
+# PECL
+before_script:
+  - echo 'y' | pecl install yaml
+  # - echo "extension=yaml.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
+
+
+script: ./test.php

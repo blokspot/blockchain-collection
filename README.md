@@ -1,4 +1,12 @@
-# Crypto currency and blockchain projects collection
+<p align="center">
+  <a href="http://blokspot.io" target="_blank" title="blokspot">
+    <img src="https://github.com/blokspot/blockchain-collection/raw/master/blokspot-github-artboard.png" title="blokspot - cryptocurrent resource collection" alt="blokspot"/>
+  </a>
+</p>
+
+<h1 align="center">Collection of blockchain and crypto currency resources</h1>
+
+[![Build Status](https://travis-ci.org/blokspot/blockchain-collection.svg?branch=master)](https://travis-ci.org/blokspot/blockchain-collection)
 
 
 ## Contribute
@@ -19,18 +27,16 @@ Please ensure your pull request adheres to the following guidelines:
 ```YAML
   # YAML syntax
   
-  - name: "<name>"
-    
+  - name: "<resource name>"
     alias: "<alias>"
-    
     description: "<description>"
-    
     country: "<country code>"
-    
     links: 
       website: "<website URL>"
-      medium: "<Medium alias>"
-      telegram: "<Telegram alias>"
+      medium: "<Medium URL>"
+      telegram: "<Telegram URL>"
+      app-store: "<Apple Store URL>"
+      android-market: "<Android Market URL>"
 ```
 
 ### name
@@ -46,11 +52,15 @@ Unique project identifier for link
 ISO code of country, if it important
 
 ### links
-**website** - Main website (**IMPORTANT**)
+**website** - Main website
 
-**medium** - Medium token, started from **@** (if exists)
+**medium** - Medium URL
 
 **telegram** - Telegram chanel link (if exists)
+
+**app-store** - Apple Store URL
+
+**android-market** - Android Market URL
 
 
 ##### Thank you for your suggestions!
