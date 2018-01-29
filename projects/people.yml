@@ -1,0 +1,21 @@
+name: "People"
+alias: people
+
+projects:
+
+  - name: "Vitalik Buterin"
+      description: "Ethereum creator, cryptocurrency evangelist."
+      links:
+        website: https://medium.com/@VitalikButerin
+        medium: "@VitalikButerin"
+
+    - name: "Linda Xie"
+      description: "Product Manager @Coinbase. Advisor @0xProject."
+      links:
+        website: https://medium.com/@linda.xie
+        medium: "@linda.xie"
+
+    - name: "Vinny Lingham"
+      description: "CEO of Civic.com."
+      links:
+        website: https://vinnylingham.com/

@@ -2,6 +2,7 @@ alias: telegram
 name: Telegram
 
 projects:
+
   - name: "Bitcoin Core Community"
     description: "Telegram discussion about Bitcoin and Bitcoin Core. 2000+ members."
     links:
