@@ -6,16 +6,14 @@ projects:
   - name: "Vitalik Buterin"
     description: "Ethereum creator, cryptocurrency evangelist."
     links:
-      website: https://medium.com/@VitalikButerin
-      medium: "@VitalikButerin"
+      medium: "https://medium.com/@VitalikButerin"
 
   - name: "Linda Xie"
     description: "Product Manager @Coinbase. Advisor @0xProject."
     links:
-      website: https://medium.com/@linda.xie
-      medium: "@linda.xie"
+      medium: "https://medium.com/@linda.xie"
 
   - name: "Vinny Lingham"
     description: "CEO of Civic.com."
     links:
-      website: https://vinnylingham.com/
+      medium: https://vinnylingham.com/

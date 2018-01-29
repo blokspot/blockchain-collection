@@ -2,10 +2,20 @@ name: "Portfolios"
 alias: portfolios
 
 projects:
-  
+
+  - name: "ACrypto"
+    description: >
+      Track bitcoin and altcoins prices, custom alarms, detailed charts.
+      Flexible, many settings, informative. Available for iOS & Android.
+    links:
+      website: https://acrypto.io
+      android-market: https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto
+      app-store: https://itunes.apple.com/app/acrypto-bitcoin-price-tracker/id1305881380
+
   - name: "CoinWizard"
     description: >
       It's a crypto currency portfolio and investment optimization tool.
       You can maximize profit and minify dropdown of your crypto investment.
     links:
       website: https://coinwizard.me
+      medium: https://medium.com/coinwizard

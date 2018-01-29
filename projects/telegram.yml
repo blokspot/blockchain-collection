@@ -7,4 +7,4 @@ projects:
     description: "Telegram discussion about Bitcoin and Bitcoin Core. 2000+ members."
     links:
       website: https://t.me/BitcoinCore
-      telegram: BitcoinCore
+      telegram: https://t.co/BitcoinCore

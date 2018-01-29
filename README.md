@@ -1,4 +1,4 @@
-# Crypto currency and blockchain projects collection
+# Crypto currency and blockchain project and resource collection
 
 
 ## Contribute
@@ -19,18 +19,16 @@ Please ensure your pull request adheres to the following guidelines:
 ```YAML
   # YAML syntax
   
-  - name: "<name>"
-    
+  - name: "<resource name>"
     alias: "<alias>"
-    
     description: "<description>"
-    
     country: "<country code>"
-    
     links: 
       website: "<website URL>"
-      medium: "<Medium alias>"
-      telegram: "<Telegram alias>"
+      medium: "<Medium URL>"
+      telegram: "<Telegram URL>"
+      app-store: "<Apple Store URL>"
+      android-market: "<Android Market URL>"
 ```
 
 ### name
@@ -46,11 +44,15 @@ Unique project identifier for link
 ISO code of country, if it important
 
 ### links
-**website** - Main website (**IMPORTANT**)
+**website** - Main website
 
-**medium** - Medium token, started from **@** (if exists)
+**medium** - Medium URL
 
 **telegram** - Telegram chanel link (if exists)
+
+**app-store** - Apple Store URL
+
+**android-market** - Android Market URL
 
 
 ##### Thank you for your suggestions!
