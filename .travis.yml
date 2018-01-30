@@ -3,6 +3,9 @@ language: php
 php:
   - 7.2
 
-before_script: phpenv config-add myconfig.ini
+before_install:
+  - pecl install yamL
+  - echo "extension=yaml.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
+
 
 script: ./test.php
