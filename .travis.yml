@@ -4,7 +4,7 @@ php:
   - 7.2
 
 before_install:
-  - pecl install yamL
+  - sudo pecl install -f yaml-2.0.2
   - echo "extension=yaml.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
 
 
