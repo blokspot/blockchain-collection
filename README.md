@@ -1,5 +1,9 @@
 # Crypto currency and blockchain project and resource collection
 
+[![Build Status](https://travis-ci.org/blokspot/blockchain-collection.svg?branch=master)](https://travis-ci.org/blokspot/blockchain-collection)
+
+
+
 
 ## Contribute
 
