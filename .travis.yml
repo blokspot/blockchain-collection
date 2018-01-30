@@ -3,7 +3,7 @@ language: php
 php:
   - 7.2
 
-before_install:
+before_script:
   - sudo pecl install -f yaml-2.0.2
   - echo "extension=yaml.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
 
