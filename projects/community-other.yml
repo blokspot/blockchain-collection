@@ -3,3 +3,7 @@ name: "Other"
 
 projects:
 
+  - name: "Bitcoin on StackExchange"
+    description: "Question and answer site for Bitcoin crypto-currency enthusiasts."
+    links:
+      website: https://bitcoin.stackexchange.com
