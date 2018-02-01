@@ -6,4 +6,9 @@ projects:
   - name: "BitcoinTalk"
     description: "Homepage of the Bitcoin community from the start. Made by Satoshi Nakamoto in 2009."
     links:
-      website: https://bitcointalk.org/
+      website: https://bitcointalk.org
+      
+  - name: "CryptoCurrencyTalk"
+    description: "Born in 2013, very active forum. Modern engine."
+    links:
+      website: https://cryptocurrencytalk.com
