@@ -1,4 +1,4 @@
-alias: news-aggregators.yml
+alias: news-aggregators
 name: "News Aggregators"
 
 projects:
@@ -11,3 +11,10 @@ projects:
     description: "Get the latest cryptocurrency, bitcoin & blockchain news from many news sources."
     links:
       website: https://coinspectator.com
+      
+  - name: "CoinDar"
+    description: >
+      Be first to know about coming cryptocurrency news, updates, hard forks, meetups, 
+      coins listing on exchanges and other important events.
+    links:
+      website: https://coindar.org
