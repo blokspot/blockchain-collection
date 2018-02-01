@@ -12,3 +12,8 @@ projects:
     description: "Born in 2013, very active forum. Modern engine."
     links:
       website: https://cryptocurrencytalk.com
+
+  - name: "Bitcoin Garden"
+    description: "Forum appeared in Jan 2017. Actual news, useful information."
+    links:
+      website: https://bitcoingarden.org
