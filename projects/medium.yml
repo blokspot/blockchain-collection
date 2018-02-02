@@ -6,7 +6,7 @@ projects:
   - name: "Bitcoin Tech Talk"
     description: "All About Bitcoin Development."
     links:
-      website: https://bitcointechtalk.com
+      medium: https://bitcointechtalk.com
       
   - name: "Token Economy"
     description: >
