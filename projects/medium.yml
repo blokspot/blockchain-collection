@@ -7,3 +7,10 @@ projects:
     description: "All About Bitcoin Development."
     links:
       website: https://bitcointechtalk.com
+      
+  - name: "Token Economy"
+    description: >
+      Making sense of the latest in crypto-land: cryptocurrencies, 
+      blockchains, ICOs, dapps & the growing token economy.
+    links:
+      medium: https://tokeneconomy.co
