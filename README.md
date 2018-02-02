@@ -63,4 +63,6 @@ ISO code of country, if it important
 **android-market** - Android Market URL
 
 
-##### Thank you for your suggestions!
+<i>Thank you for your suggestions!</i>
+
+<i>Special thanks to [CryptoList](https://github.com/coinpride/CryptoList).</i>
