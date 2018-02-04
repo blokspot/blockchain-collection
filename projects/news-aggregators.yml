@@ -14,7 +14,7 @@ projects:
       
   - name: "CoinDar"
     description: >
-      Be first to know about coming cryptocurrency news, updates, hard forks, meetups, 
+      Be first to know about coming cryptocurrency news, hard forks, meetups, updates, 
       coins listing on exchanges and other important events.
     links:
       website: https://coindar.org
