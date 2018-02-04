@@ -3,6 +3,22 @@ name: Price Trackers
 
 projects:
   - name: CoinMarketCap
-    description: "Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users."
+    description: >
+      Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users.
     links:
-      website: https://coinmarketcap.com/
+      website: https://coinmarketcap.com
+ 
+  - name: Coincap
+    description: >
+      CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
+    links:
+      website: http://coincap.io
+      android-market: https://play.google.com/store/apps/details?id=io.coinCap.coinCap
+      app-store: https://itunes.apple.com/app/coincap-real-time-cryptocurrency/id1074052280
+
+      
+  - name: Cryptowatch
+    description: >
+      Live price charts and market data for Bitcoin, Ethereum, and more. Many exchanges, flexible settings and cool API.
+    links:
+      website: https://cryptowat.ch
