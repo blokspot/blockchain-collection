@@ -3,23 +3,35 @@ name: Exchanges
 
 projects:
   - name: "Local Bitcoins"
-    description: "Buy and sell bitcoins near you. Trusted by 10M monthly users."
+    description: >
+      Buy and sell bitcoins near you. 
+      Trusted by 10M monthly users.
     links:
-      website: https://localbitcoins.com/
+      website: https://localbitcoins.com
       
   - name: "Poloniex"
-    description: "Tons of altcoins. Poor support."
+    description: >
+      Tons of altcoins. Poor support.
     country: USA
     links:
-      website: https://www.poloniex.com/
+      website: https://www.poloniex.com
       
   - name: "Kraken"
-    description: "Trusted exchange. Founded in 2011"
+    description: >
+      Trusted exchange. Founded in 2011
     country: USA
     links:
-      website: https://www.kraken.com/
+      website: https://www.kraken.com
       
   - name: "Shapeshift"
-    description: "No login, fast, awesome API."
+    description: >
+      The Safest, Fastest Asset Exchange on Earth. 
+      No login, fast, afiliate program, awesome API.
     links:
-      website: https://shapeshift.io/
+      website: https://shapeshift.io
+      
+  - name: "Changelly"
+    description: >
+      Fiat, fast, afiliate program, awesome API.
+    links:
+      website: https://changelly.com
