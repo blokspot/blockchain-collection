@@ -6,6 +6,7 @@ projects:
   - name: "Vitalik Buterin"
     description: "Ethereum creator, cryptocurrency evangelist."
     links:
+      website: https://vitalik.ca
       medium: "https://medium.com/@VitalikButerin"
 
   - name: "Linda Xie"
