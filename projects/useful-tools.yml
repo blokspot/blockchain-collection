@@ -1,0 +1,22 @@
+name: "Useful Tools"
+alias: useful-tools
+projects:
+  
+  - name: "Blockchain Demo"
+    description: >
+      A visual demo of the blockchain data structure.
+    links:
+      website: https://blockchaindemo.io
+      github: https://github.com/seanjameshan
+      medium: https://medium.com/@seanjameshan
+      twitter: https://twitter.com/seanjameshan
+      
+  
+  - name: "Coin Demo"
+    description: >
+      A visual demo of cryptocurrency technology.
+    links:
+      website: https://coindemo.io
+      github: https://github.com/seanjameshan
+      medium: https://medium.com/@seanjameshan
+      twitter: https://twitter.com/seanjameshan
