@@ -22,3 +22,23 @@ projects:
       Live price charts and market data for Bitcoin, Ethereum, and more. Many exchanges, flexible settings and cool API.
     links:
       website: https://cryptowat.ch
+      
+      
+  - name: "Ticker for WEX"
+    country: ru
+    description: >
+      Open source Chrome extention for track prices on WEX.nz exchange.
+      Price badget, friendly interface.
+    links:
+      website: https://chrome.google.com/webstore/detail/bitcoin-ticker-for-wex-ex/nogdkjfnegdjdgegekcclglocakclegl
+      github: https://github.com/CoinWizard/wex-ticker-extension
+
+
+  - name: "Ticker for Kuna"
+    country: ua
+    description: >
+      Open source Chrome extention for track prices on KUNA.io exchange. 
+      Calculator, price badget, friendly interface.
+    links:
+      website: https://chrome.google.com/webstore/detail/bitcoin-ticker-for-kuna-e/fgdaflnjoincloakmmndamfgofijeine
+      github: https://github.com/CoinWizard/kuna-ticker-extension
