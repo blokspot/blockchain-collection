@@ -1,0 +1,14 @@
+name: "Useless Tools"
+alias: useless-tools
+projects:
+  
+  - name: "ICONIC.show"
+    description: >
+      ICONIC is the first Digital Biennale on blockchain. 
+      They aim to encourage challenging ideas in young and creative designers’ 
+      minds by promoting the link between the digital art and the future of money.
+    links:
+      website: https://iconic.show
+      medium: https://medium.com/@iconic.show
+      telegram: https://t.me/joinchat/CBKjeErlmHV3goyi1lb1HQ
+      twitter: https://twitter.com/iconic_biennale
