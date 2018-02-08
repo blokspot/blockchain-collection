@@ -46,3 +46,8 @@ projects:
     links:
       website: https://chrome.google.com/webstore/detail/bitcoin-ticker-for-kuna-e/fgdaflnjoincloakmmndamfgofijeine
       github: https://github.com/CoinWizard/kuna-ticker-extension
+    tags:
+      - "chrome extension"
+      - "open source"
+      - "exchange"
+
