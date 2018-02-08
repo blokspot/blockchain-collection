@@ -33,9 +33,9 @@ projects:
       website: https://chrome.google.com/webstore/detail/bitcoin-ticker-for-wex-ex/nogdkjfnegdjdgegekcclglocakclegl
       github: https://github.com/CoinWizard/wex-ticker-extension
     tags:
-      - "wexnz"
       - "chrome extension"
       - "open source"
+      - "exchange"
       
 
   - name: "Ticker for Kuna"
