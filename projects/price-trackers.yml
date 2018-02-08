@@ -35,8 +35,6 @@ projects:
     tags:
       - "chrome extension"
       - "open source"
-      - "top10"
-      - "exchange"
       
 
   - name: "Ticker for Kuna"
@@ -50,5 +48,4 @@ projects:
     tags:
       - "chrome extension"
       - "open source"
-      - "exchange"
 
