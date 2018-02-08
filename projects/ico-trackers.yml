@@ -3,6 +3,11 @@ name: "ICO Trackers"
 
 projects:
 
+   - name: "ICOTable"
+    description: "Calendar and Listing actual ICO"
+    links:
+      website: https://icotable.ru/
+
   - name: "The ICO digest"
     description: "Weekly ICO digest."
     links:
