@@ -4,10 +4,13 @@ name: Exchanges
 projects:
   - name: "Local Bitcoins"
     description: >
-      Buy and sell bitcoins near you. 
-      Trusted by 10M monthly users.
+      Buy and sell bitcoins near you. Trusted by 10M monthly users.
     links:
       website: https://localbitcoins.com
+    tags:
+      - api
+      - fiat
+      - affiliate
       
   - name: "Poloniex"
     description: >
@@ -15,6 +18,9 @@ projects:
     country: USA
     links:
       website: https://www.poloniex.com
+    tags:
+      - "only crypto currency"
+      - api
       
   - name: "Kraken"
     description: >
@@ -22,16 +28,47 @@ projects:
     country: USA
     links:
       website: https://www.kraken.com
+    tags:
+      - fiat
+      - api
       
+      
+
   - name: "Shapeshift"
     description: >
       The Safest, Fastest Asset Exchange on Earth. 
       No login, fast, afiliate program, awesome API.
     links:
       website: https://shapeshift.io
-      
+      android-market: https://play.google.com/store/apps/details?id=com.shapeshift.droid_shapeshift
+      app-store: https://itunes.apple.com/us/app/shapeshift-instant-crypto-converter/id996569075?mt=8
+    tags:
+      - api
+      - affiliate
+      - "no registration"
+      - "only crypto currency"
+      - "ios application"
+      - "android application"
+
+
   - name: "Changelly"
     description: >
       Fiat, fast, afiliate program, awesome API.
     links:
       website: https://changelly.com
+    tags:
+      - api
+      - fiat
+      - affiliate
+
+
+  - name: "Bittrex"
+    description: >
+      Built and operated in the United States, Bittrex is the next generation 
+      crypto trading platform created by security professionals.
+    country: us
+    links:
+      website: https://bittrex.com
+    tags:
+      - api
+      - fiat
