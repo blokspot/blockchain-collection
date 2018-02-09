@@ -8,16 +8,22 @@ projects:
     links:
       website: https://vitalik.ca
       medium: "https://medium.com/@VitalikButerin"
+    tags:
+      - ethereum
 
   - name: "Linda Xie"
     description: "Product Manager @Coinbase. Advisor @0xProject."
     links:
       medium: "https://medium.com/@linda.xie"
+    tags:
+      - coinbase
 
   - name: "Vinny Lingham"
     description: "CEO of Civic.com."
     links:
-      medium: https://vinnylingham.com/
+      medium: https://vinnylingham.com
+    tags:
+      - civic
       
   - name: "Tuur Demeester"
     description: "Economist & investor, editor in chief at Adamant Research."
