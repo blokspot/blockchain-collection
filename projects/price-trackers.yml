@@ -15,6 +15,9 @@ projects:
       website: http://coincap.io
       android-market: https://play.google.com/store/apps/details?id=io.coinCap.coinCap
       app-store: https://itunes.apple.com/app/coincap-real-time-cryptocurrency/id1074052280
+    tags:
+      - "ios application"
+      - "android application"
 
       
   - name: Cryptowatch
@@ -35,6 +38,7 @@ projects:
     tags:
       - "chrome extension"
       - "open source"
+      - "exchange"
       
 
   - name: "Ticker for Kuna"
@@ -48,4 +52,5 @@ projects:
     tags:
       - "chrome extension"
       - "open source"
+      - "exchange"
 
