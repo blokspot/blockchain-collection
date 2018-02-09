@@ -11,6 +11,9 @@ projects:
       website: https://acrypto.io
       android-market: https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto
       app-store: https://itunes.apple.com/app/acrypto-bitcoin-price-tracker/id1305881380
+    tags:
+      - "ios application"
+      - "android application"
 
   - name: "CoinWizard"
     description: >
@@ -20,6 +23,9 @@ projects:
       website: https://coinwizard.me
       telegram: https://t.me/coinwizardtalk
       medium: https://medium.com/coinwizard
+    tags:
+      - "portfolio optimisation"
+      - "markowitz"
       
   - name: "Blockfolio"
     description: >
@@ -30,3 +36,6 @@ projects:
       telegram: https://t.me/joinchat/DN-whj4fwvuY1pq1IhSXMA/
       android-market: https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio
       app-store: https://itunes.apple.com/us/app/blockfolio-bitcoin-altcoin/id1095564685?mt=8
+    tags:
+      - "ios application"
+      - "android application"
