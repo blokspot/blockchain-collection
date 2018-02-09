@@ -1,0 +1,18 @@
+alias: wallets
+name: "Wallets"
+
+projects:
+  - name: "Xapo"
+    description: >
+      Xapo provides the tools you need to purchase bitcoins, then manage them through our 
+      easy-to-use online wallet, or store them in Xapo's free, ultra-secure Vault.
+    links:
+      website: https://xapo.com
+      android-market: https://play.google.com/store/apps/details?id=com.xapo&hl=en
+      app-store: https://itunes.apple.com/app/id917692892
+    tags:
+      - fiat
+      - secure
+      - "buy bitcoin"
+      - "ios application"
+      - "android application"
