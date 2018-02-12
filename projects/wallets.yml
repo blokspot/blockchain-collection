@@ -61,3 +61,17 @@ projects:
       - "open source"
       - ethereum
       - erc20
+      
+  - name: "Jaxx"
+    description: >
+      Reliable, Jaxx supports many of the leading cryptocurrency platforms. Crossplatform.
+    links:
+      website: https://jaxx.io
+      android-market: https://play.google.com/store/apps/details?id=com.kryptokit.jaxx&hl=en
+      app-store: https://itunes.apple.com/us/app/jaxx-bitcoin-ethereum-wallet/id1084514516?mt=8
+    tags:
+      - "chrome extension"
+      - "buy bitcoin"
+      - "ios application"
+      - "android application"
+
