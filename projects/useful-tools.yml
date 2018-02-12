@@ -1,5 +1,6 @@
-name: "Useful Tools"
 alias: useful-tools
+name: "Useful Tools"
+
 projects:
   
   - name: "Blockchain Demo"
@@ -20,3 +21,10 @@ projects:
       github: https://github.com/seanjameshan
       medium: https://medium.com/@seanjameshan
       twitter: https://twitter.com/seanjameshan
+
+
+  - name: "WalletList"
+    description: >
+      Showcase your public cryptocurrency addresses.
+    links:
+      website: https://walletlist.me

@@ -16,3 +16,48 @@ projects:
       - "buy bitcoin"
       - "ios application"
       - "android application"
+
+
+  - name: "Ledger Hardware"
+    description: >
+      Reliable hardware wallet.
+      Supports BTC/ETH/ETC/DASH/DOGE and many more coins and ERC20 tokens.
+      Wallets: "Ledger Nano S" and "Ledger Blue".
+    links:
+      website: https://www.ledgerwallet.com
+      github: https://github.com/LedgerHQ
+    tags:
+      - secure
+      - hardware
+      - "Ledger Nano S"
+      - "Ledger Blue"
+      - erc20
+
+
+  - name: "Trezor"
+    description: >
+      Trezor is a hardware wallet providing a high level of security without sacrificing convenience.
+      Unlike cold storage, Trezor is able to sign transactions while connected to an online device.
+      That means spending bitcoins is secure even when using a compromised computer.
+      Supports BTC/BCH/ETH/ETC/DASH/DOGE and many more coins and ERC20 tokens.
+    links:
+      website: https://trezor.io
+      github: https://github.com/trezor
+    tags:
+      - secure
+      - hardware
+      - wallet
+      - erc20
+
+
+  - name: "Metamask"
+    description: >
+      Ethereum wallet.
+      Run Ethereum dApps right in your browser without running full node.
+    links:
+      website: https://metamask.io
+      github: https://github.com/MetaMask/metamask-extension
+    tags:
+      - "open source"
+      - ethereum
+      - erc20

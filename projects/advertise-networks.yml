@@ -1,0 +1,18 @@
+name: "Advertise Networks"
+alias: advertise-networks
+
+projects:
+
+  - name: "A-ADS"
+    description: >
+      Is a bitcoin advertising network which does not collect any personal data.
+      It has been around for a long time and is a very reputable service.
+      To earn, publishers do not even need to register on the platform, they merely need
+      to select an ad unit type, filter ads that can be displayed on their website,
+      and set their withdrawal parameters. Publishers are paid per unique impressions,
+      possibly on a daily basis, and can also earn through referred sales, depending on the advertisers.
+    links:
+      website: https://a-ads.com
+    tags:
+      - affiliate
+      - "no register"

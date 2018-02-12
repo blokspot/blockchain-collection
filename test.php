@@ -13,6 +13,22 @@ function validateFile(string $file)
     if (!$result) {
         throw new Exception("Invalid format");
     }
+
+    if (empty($result['name'])) {
+        throw new Exception('Name must be set!');
+    }
+
+    if (empty($result['alias'])) {
+        throw new Exception('Alias must be set!');
+    }
+
+    $projects = $result['projects'];
+
+    foreach ($projects as $index => $prj) {
+        if (empty($prj['name'])) {
+            throw new Exception("Name of project {$index} must be set!");
+        }
+    }
 }
 
 foreach (glob("{$projectsPath}/*.yml") as $file) {
