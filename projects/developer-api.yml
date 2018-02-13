@@ -2,7 +2,7 @@ name: "API"
 alias: developer-api
 projects:
 
-  - name: "Etherscan API - JavaScript Library"
+  - name: "Etherscan API JavaScript Library"
     description: >
       JavaScript library for block explorer - Etherscan.
     links:
