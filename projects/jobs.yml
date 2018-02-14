@@ -1,0 +1,13 @@
+name: "Jobs"
+alias: jobs
+
+projects:
+
+  - name: "Coinality"
+    description: >
+      Coinality is free service connecting crypto employers and job seekers.
+    links:
+      website: https://coinality.com
+      twitter: https://twitter.com/coinality
+    tags:
+      - api

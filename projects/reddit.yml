@@ -1,0 +1,22 @@
+name: "Reddit"
+alias: reddit
+projects:
+
+  - name: "/r/Bitcoin/"
+    alias: r-bitcoin
+    description: >
+      Discuss Bitcoin news on Reddit. 300,000+ readers.
+    links:
+      reddit: https://www.reddit.com/r/Bitcoin
+    tags:
+      - bitcoin
+
+  - name: "/r/Jobs4Bitcoins/"
+    alias: r-jobs4bitcoins
+    description: >
+      Place on Reddit to offer your talents and skills in exchange
+      for the fastest growing currency in the world.
+    links:
+      reddit: https://www.reddit.com/r/Jobs4Bitcoins
+    tags:
+      - jobs

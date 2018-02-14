@@ -1,0 +1,30 @@
+name: "Games"
+alias: games
+
+projects:
+
+  - name: "CryptoKitties"
+    description: >
+      CryptoKitties is a game centered around breedable, collectible,
+      and oh-so-adorable creatures we call CryptoKitties! Each cat is one-of-a-kind and 100% owned by you;
+      it cannot be replicated, taken away, or destroyed.
+    links:
+      website: https://www.cryptokitties.co
+      reddit: https://www.reddit.com/r/CryptoKitties
+      twitter: https://twitter.com/cryptokitties
+    tags:
+      - ethereum
+      - ico
+      - "smart contract"
+
+
+  - name: UnicornGO
+    description: >
+      UnicornGO is a cryptocollection game featuring advanced graphics and elements of full-scale gameplay.
+    links:
+      website: https://unicorngo.io
+    tags:
+      - ico
+      - ethereum
+      - "smart contract"
+      - erc20

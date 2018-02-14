@@ -1,0 +1,24 @@
+name: "Mining"
+alias: mining
+projects:
+
+  - name: CoinWarz
+    description: >
+      Mining profitability calculators. Help choosing perfect coin to mine.
+    links:
+      website: https://coinwarz.com
+    tags:
+      - "price tracker"
+      - "mining calculation"
+      - api
+
+
+  - name: "WhatToMine?"
+    alias: what-to-mine
+    description: >
+      Find the most profitable cryptocurrencies to mine.
+    links:
+      website: https://whattomine.com
+    tags:
+      - "mining calculation"
+      - api
