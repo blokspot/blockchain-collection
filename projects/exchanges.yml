@@ -72,3 +72,14 @@ projects:
     tags:
       - api
       - fiat
+
+  - name: "Coinome"
+    description: >
+      Indian Crypto Currency Trading Exchange, built to offer feature rich user 
+      experience with no compromise on security.
+    country: in
+    links:
+      website: https://www.coinome.com
+      twitter: https://twitter.com/CoinomeOfficial
+    tags:
+      - fiat
