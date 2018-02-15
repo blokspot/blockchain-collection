@@ -28,3 +28,19 @@ projects:
       Showcase your public cryptocurrency addresses.
     links:
       website: https://walletlist.me
+
+
+  - name: "Mnemonic & BIP39"
+    alias: mnemonic-and-bip39-generator
+    description: >
+      Mnemonic code for generating hierarchical deterministic keys by BIP39 specification
+    links:
+      website: https://iancoleman.io/bip39
+    tags:
+      - mnemonic
+      - seed
+      - bip39
+      - bip44
+      - bitcoin
+      - specification
+
