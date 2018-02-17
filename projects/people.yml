@@ -29,3 +29,11 @@ projects:
     description: "Economist & investor, editor in chief at Adamant Research."
     links:
       medium: https://medium.com/@tuurdemeester
+
+  - name: "Peter Todd"
+    description: >
+      Blog of Todd, the applied cryptography consultant.
+    links:
+      website: https://petertodd.org
+      github: https://github.com/petertodd
+      twitter: https://twitter.com/peterktodd
