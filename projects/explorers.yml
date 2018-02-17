@@ -1,0 +1,20 @@
+alias: explorers
+name: "Explorers"
+
+projects:
+
+  - name: "Blockchain.info"
+    alias: "Blockchain-info"
+    description: >
+      World’s most popular Bitcoin explorer.
+    links:
+      website: https://blockchain.info
+    tags:
+      - bitcoin
+      - explorer
+      - wallet
+      - api
+      - "test net"
+      - "payment processing"
+      - "ios application"
+      - "android application"

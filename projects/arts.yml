@@ -1,0 +1,15 @@
+alias: arts
+name: "Arts"
+
+projects:
+
+  - name: "CryptoMasterpieces"
+    description: >
+      Fine art digital collectibles powered by Ethereum blockchain technology
+    links:
+      website: https://www.cryptomasterpieces.com
+      medium: "https://medium.com/@cryptomasterpieces"
+      twitter: "https://twitter.com/ethmasterpieces"
+    tags:
+      - ethereum
+      - art
