@@ -2,6 +2,7 @@ alias: wallets
 name: "Wallets"
 
 projects:
+
   - name: "Xapo"
     description: >
       Xapo provides the tools you need to purchase bitcoins, then manage them through our 
@@ -61,7 +62,8 @@ projects:
       - "open source"
       - ethereum
       - erc20
-      
+
+
   - name: "Jaxx"
     description: >
       Reliable, Jaxx supports many of the leading cryptocurrency platforms. Crossplatform.

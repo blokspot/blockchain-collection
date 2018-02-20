@@ -16,6 +16,7 @@ projects:
       - ethereum
       - ico
       - "smart contract"
+      - gambling
 
 
   - name: UnicornGO

@@ -31,8 +31,6 @@ projects:
     tags:
       - fiat
       - api
-      
-      
 
   - name: "Shapeshift"
     description: >
@@ -53,7 +51,7 @@ projects:
 
   - name: "Changelly"
     description: >
-      Fiat, fast, afiliate program, awesome API.
+      Fiat, fast, affiliate program, awesome API.
     links:
       website: https://changelly.com
     tags:

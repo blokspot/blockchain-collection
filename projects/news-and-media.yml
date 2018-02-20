@@ -1,0 +1,70 @@
+name: "News and Media"
+alias: news-and-media
+
+projects:
+
+  - name: "ETHNews"
+    description: "ETHNews is emerging provider of Ethereum and Blockchain ecosystem news."
+    links:
+      website: https://www.ethnews.com
+    tags:
+      - "news aggregators"
+
+  - name: "Coin Spectator"
+    description: "Get the latest cryptocurrency, bitcoin & blockchain news from many news sources."
+    links:
+      website: https://coinspectator.com
+    tags:
+      - "news aggregators"
+
+  - name: "CoinDar"
+    description: >
+      Be first to know about coming cryptocurrency news, hard forks, meetups, updates,
+      coins listing on exchanges and other important events.
+    links:
+      website: https://coindar.org
+    tags:
+      - "news aggregators"
+
+  - name: "Bitcoin Tech Talk"
+    description: "All About Bitcoin Development."
+    links:
+      medium: https://bitcointechtalk.com
+    tags:
+      - "medium blog"
+
+  - name: "Token Economy"
+    description: >
+      Making sense of the latest in crypto-land: cryptocurrencies,
+      blockchains, ICOs, dapps & the growing token economy.
+    links:
+      medium: https://tokeneconomy.co
+    tags:
+      - "medium blog"
+
+  - name: "CoinDesk"
+    description: "CoinDesk is the world leader in news and information on digital currencies. 17M mothly users."
+    links:
+      website: https://www.coindesk.com
+
+  - name: "CryptoCoins News"
+    description: "Fresh news and analysis. This huge blog posts very frequently. Approx. 7M readers monthly."
+    links:
+      website: http://www.cryptocoinsnews.com
+
+  - name: "Coin Speaker"
+    description: "Founded in 2014, CoinSpeaker is one of the most influentional news source."
+    links:
+      website: https://www.coinspeaker.com
+
+  - name: "The Memory Pool"
+    description: "Satoshi Nakamoto Institute blog."
+    links:
+      website: http://nakamotoinstitute.org/mempool
+    tags:
+      - blog
+
+  - name: "CryptoHackers"
+    description: "Cryptoworld superheroes interviews. Fascinating facts, teams insides and success stories."
+    links:
+      website: https://cryptohackers.party
