@@ -10,6 +10,7 @@ projects:
       medium: "https://medium.com/@VitalikButerin"
     tags:
       - ethereum
+      - medium
 
   - name: "Linda Xie"
     description: "Product Manager @Coinbase. Advisor @0xProject."
@@ -17,6 +18,7 @@ projects:
       medium: "https://medium.com/@linda.xie"
     tags:
       - coinbase
+      - medium
 
   - name: "Vinny Lingham"
     description: "CEO of Civic.com."
