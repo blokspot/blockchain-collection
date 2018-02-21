@@ -36,3 +36,15 @@ projects:
       - javascript
       - ethereum
       - erc20
+      
+  - name: "Infura"
+    description: >
+      Secure, reliable, and scalable access to Ethereum and IPFS.
+    links:
+      website: https://infura.io
+      github: https://github.com/INFURA
+      twitter: https://twitter.com/infura_io
+    tags:
+      - api
+      - blockexplorer
+      - "open source"
