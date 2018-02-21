@@ -22,3 +22,17 @@ projects:
     tags:
       - "mining calculation"
       - api
+  
+  
+  - name: "Cryptotab"
+    alias: cryptotab-mining
+    description: >
+      Chrome extension that mine Monero and convert it to Bitcoin. Good affiliate program.
+    links:
+      website: https://getcryptotab.com/75639
+      chrome-web-store: https://chrome.google.com/webstore/detail/cryptotab/fcaacbfglejpnljiiokpcplbmmlbmnbk
+    tags:
+      - affiliate
+      - "chrome extension"
+      - "browser mining"
+
