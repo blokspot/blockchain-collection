@@ -13,3 +13,14 @@ projects:
     tags:
       - ethereum
       - art
+
+  - name: "Gramatik"
+    description: >
+      Electronic music producer, who made an ICO and received more then $9 million.
+    links:
+      website: http://www.gramatik.net
+    tags:
+      - ethereum
+      - music
+      - art
+      - ico

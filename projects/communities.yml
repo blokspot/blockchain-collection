@@ -1,0 +1,68 @@
+alias: communities
+name: "Communities"
+
+projects:
+
+  - name: "Bitcoin on StackExchange"
+    description: "Question and answer site for Bitcoin crypto-currency enthusiasts."
+    links:
+      website: https://bitcoin.stackexchange.com
+      
+  - name: "Crypto Aquarium"
+    description: "Great community (Telegram, Slack). Curated by Joshua Petty, the Coindex creator. 800+ members."
+    links:
+      website: https://cryptoaquarium.com
+      telegram: https://t.me/cryptoaquarium
+      medium: https://medium.com/cryptoaquarium
+    tags:
+      - telegram
+      - medium
+      
+  - name: "Cryptominded"
+    description: "All things crypto: events, jobs, trades, news. 1000+ Slack members."
+    links:
+      website: https://cryptominded.com
+
+  - name: "/r/Bitcoin/"
+    alias: r-bitcoin
+    description: >
+      Discuss Bitcoin news on Reddit. 300,000+ readers.
+    links:
+      reddit: https://www.reddit.com/r/Bitcoin
+    tags:
+      - bitcoin
+      - reddit
+
+  - name: "Bitcoin Core Community"
+    description: "Telegram discussion about Bitcoin and Bitcoin Core. 2000+ members."
+    links:
+      website: https://t.me/BitcoinCore
+      telegram: https://t.co/BitcoinCore
+    tags:
+      - telegram
+
+
+  - name: "BitcoinTalk"
+    description: "Homepage of the Bitcoin community from the start. Made by Satoshi Nakamoto in 2009."
+    links:
+      website: https://bitcointalk.org
+    tags:
+      - forum
+
+
+  - name: "CryptoCurrencyTalk"
+    description: "Born in 2013, very active forum. Modern engine."
+    links:
+      website: https://cryptocurrencytalk.com
+    tags:
+      - forum
+
+
+  - name: "Bitcoin Garden"
+    description: "Forum appeared in Jan 2017. Actual news, useful information."
+    links:
+      website: https://bitcoingarden.org
+      twitter: https://twitter.com/bitcoingarden
+    tags:
+      - forum
+      - twitter
