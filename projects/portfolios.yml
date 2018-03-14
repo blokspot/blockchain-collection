@@ -39,3 +39,15 @@ projects:
     tags:
       - "ios application"
       - "android application"
+
+- name: "CoinTracker"
+    description: >
+      CoinTracker is a cryptocurrency portfolio manager & tax assistant.
+      It automatically syncs your transactions and balances across wallets & exchanges.
+    links:
+      website: https://www.cointracker.io
+      telegram: https://t.me/cointracker_io
+    tags:
+      - "web application"
+      - "crypto taxes"
+      - "portfolio tracker"
