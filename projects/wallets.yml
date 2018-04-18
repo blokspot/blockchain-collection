@@ -3,6 +3,20 @@ name: "Wallets"
 
 projects:
 
+  - name: "BERRYWALLET"
+    description: >
+      Safest multi-wallet that lets you store and manage crypto funds quickly and safely. 
+    links:
+      website: https://berrywallet.com
+      github: https://github.com/berrywallet
+      google-webstore: https://chrome.google.com/webstore/detail/berrywallet/boidgcdefidhoojfljngigkjffbodjmn
+    tags:
+      - wallet
+      - secure
+      - "chrome extension"
+      - "exchange"
+      - "open source"
+
   - name: "Xapo"
     description: >
       Xapo provides the tools you need to purchase bitcoins, then manage them through our 
