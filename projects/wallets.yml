@@ -7,7 +7,7 @@ projects:
     description: >
       Safest multi-wallet that lets you store and manage crypto funds quickly and safely. 
     links:
-      website: https://berrywallet.com
+      website: https://berrywallet.io
       github: https://github.com/berrywallet
       google-webstore: https://chrome.google.com/webstore/detail/berrywallet/boidgcdefidhoojfljngigkjffbodjmn
     tags:
