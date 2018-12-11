@@ -43,4 +43,13 @@ projects:
       - bip44
       - bitcoin
       - specification
+  
+  - name: "Bitcharge"
+    alias: bitcharge
+    description: >
+      Bitcharge is essentially an easy way to provide multiple crypto addresses from a single url.
+      So you can use it accept payments or donations in multiple cryptocurrencies.
+    links:
+      website: https://bitcharge.co
+
 
