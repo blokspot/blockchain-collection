@@ -71,6 +71,7 @@ projects:
       - api
       - fiat
 
+
   - name: "Coinome"
     description: >
       Indian Crypto Currency Trading Exchange, built to offer feature rich user 
@@ -81,3 +82,16 @@ projects:
       twitter: https://twitter.com/CoinomeOfficial
     tags:
       - fiat
+
+
+  - name: "Kuna"
+    description: >
+      Ukrainian cryptocurrency Exchange
+    country: ua
+    links:
+      website: https://kuna.io
+      twitter: https://twitter.com/KunaExchange
+    tags:
+      - api
+      - fiat
+      - "ios application"
