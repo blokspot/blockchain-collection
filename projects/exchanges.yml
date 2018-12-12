@@ -95,3 +95,16 @@ projects:
       - api
       - fiat
       - "ios application"
+      
+  - name: "BitMex"
+    alias: bitmex-exchange
+    description: >
+      You can trade Bitcoin and other cryptocurrencies with up to 100x margin.
+      Bitcoin, Ethereum and Litecoin futures and swaps.
+    links:
+      website: https://www.bitmex.com/register/lxpbC1
+    tags:
+      - "crypto currency futures"
+      - "margin trading"
+      
+      
